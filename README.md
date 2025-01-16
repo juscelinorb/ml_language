@@ -9,6 +9,10 @@
 
 ![Tela Inicial](/inputs/Screenshot_1.jpg)
 
+*Entrada do texto a ser analizado:*
+
+![Resultado do documento](/inputs/Screenshot_7.jpg)
+
 *Nessa imagem a ferramenta apresenta o resultado do documento*
 
 ![Resultado do documento](/inputs/Screenshot_2.jpg)
